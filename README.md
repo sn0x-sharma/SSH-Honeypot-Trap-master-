@@ -1,5 +1,5 @@
-## hey guys sn0x here!!
-# Secure shell (SSH )Honeypot 
+## Hey guys sn0x here!!
+# Secure shell Honeypot-Trap-Mater 
 
 This program listens for incoming ssh connections and logs the ip
 address, username, and password used. This was written to gather
